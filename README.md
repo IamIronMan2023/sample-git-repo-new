@@ -1,10 +1,10 @@
 # Sample Project
 
-Simple overview of use/purpose.
+This is a README.md for my Sample Project
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+This is a README.md for my Sample Project.
 
 ## Getting Started
 
